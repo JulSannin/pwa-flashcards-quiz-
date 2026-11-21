@@ -1,0 +1,174 @@
+{
+  "quizzes": [
+    {
+      "id": "network",
+      "name": "Сеть и HTTP",
+      "file": "quizzes/network.json"
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "file": "quizzes/react.json"
+    },
+    {
+      "id": "docker",
+      "name": "Docker и Docker Compose",
+      "file": "quizzes/docker.json"
+    },
+    {
+      "id": "samurai-01",
+      "name": "Самурай 1 · О курсе",
+      "file": "quizzes/samurai-01.json"
+    },
+    {
+      "id": "samurai-02",
+      "name": "Самурай 2 · Vanilla UI",
+      "file": "quizzes/samurai-02.json"
+    },
+    {
+      "id": "samurai-03",
+      "name": "Самурай 3 · Node.js",
+      "file": "quizzes/samurai-03.json"
+    },
+    {
+      "id": "samurai-04",
+      "name": "Самурай 4 · Vite и старт проекта",
+      "file": "quizzes/samurai-04.json"
+    },
+    {
+      "id": "samurai-05",
+      "name": "Самурай 5 · Метод map",
+      "file": "quizzes/samurai-05.json"
+    },
+    {
+      "id": "samurai-06",
+      "name": "Самурай 6 · Модули, import/export",
+      "file": "quizzes/samurai-06.json"
+    },
+    {
+      "id": "samurai-07",
+      "name": "Самурай 7 · JSX vs HTML",
+      "file": "quizzes/samurai-07.json"
+    },
+    {
+      "id": "samurai-08",
+      "name": "Самурай 8 · Данные и алгоритм рендера",
+      "file": "quizzes/samurai-08.json"
+    },
+    {
+      "id": "samurai-09",
+      "name": "Самурай 9 · useState",
+      "file": "quizzes/samurai-09.json"
+    },
+    {
+      "id": "samurai-10",
+      "name": "Самурай 10 · Backend, API, Swagger",
+      "file": "quizzes/samurai-10.json"
+    },
+    {
+      "id": "samurai-11",
+      "name": "Самурай 11 · useEffect и запросы",
+      "file": "quizzes/samurai-11.json"
+    },
+    {
+      "id": "samurai-12",
+      "name": "Самурай 12 · filter и find",
+      "file": "quizzes/samurai-12.json"
+    },
+    {
+      "id": "samurai-13",
+      "name": "Самурай 13 · Паттерн List-Detail",
+      "file": "quizzes/samurai-13.json"
+    },
+    {
+      "id": "samurai-14",
+      "name": "Самурай 14 · Truthy/Falsy и условный рендеринг",
+      "file": "quizzes/samurai-14.json"
+    },
+    {
+      "id": "samurai-15",
+      "name": "Самурай 15 · useEffect: зависимости",
+      "file": "quizzes/samurai-15.json"
+    },
+    {
+      "id": "samurai-16",
+      "name": "Самурай 16 · Компоненты и декомпозиция",
+      "file": "quizzes/samurai-16.json"
+    },
+    {
+      "id": "samurai-17",
+      "name": "Самурай 17 · Props и Information Expert",
+      "file": "quizzes/samurai-17.json"
+    },
+    {
+      "id": "samurai-18",
+      "name": "Самурай 18 · Inversion of Control и callbacks",
+      "file": "quizzes/samurai-18.json"
+    },
+    {
+      "id": "samurai-19",
+      "name": "Самурай 19 · Синхронизация компонентов на примере плеера",
+      "file": "quizzes/samurai-19.json"
+    },
+    {
+      "id": "samurai-20",
+      "name": "Самурай 20 · TypeScript: основы",
+      "file": "quizzes/samurai-20.json"
+    },
+    {
+      "id": "samurai-21",
+      "name": "Самурай 21 · TypeScript в React",
+      "file": "quizzes/samurai-21.json"
+    },
+    {
+      "id": "samurai-22",
+      "name": "Самурай 22 · Архитектура и Data Access Layer",
+      "file": "quizzes/samurai-22.json"
+    },
+    {
+      "id": "samurai-23",
+      "name": "Самурай 23 · Кастомные хуки",
+      "file": "quizzes/samurai-23.json"
+    },
+    {
+      "id": "samurai-24",
+      "name": "Самурай 24 · Стейт менеджер на хуках и BLL",
+      "file": "quizzes/samurai-24.json"
+    },
+    {
+      "id": "samurai-25",
+      "name": "Самурай 25 · CSS-модули, PostCSS и clsx",
+      "file": "quizzes/samurai-25.json"
+    },
+    {
+      "id": "samurai-26",
+      "name": "Самурай 26 · Git и GitHub",
+      "file": "quizzes/samurai-26.json"
+    },
+    {
+      "id": "samurai-27",
+      "name": "Самурай 27 · DevOps, CI/CD и GitHub Actions",
+      "file": "quizzes/samurai-27.json"
+    },
+    {
+      "id": "ts-01",
+      "name": "TypeScript 1 · Основы",
+      "file": "quizzes/ts-01.json"
+    },
+    {
+      "id": "ts-02",
+      "name": "TypeScript 2 · Типизация функций",
+      "file": "quizzes/ts-02.json"
+    },
+    {
+      "id": "ts-03",
+      "name": "TypeScript 3 · Типизация массивов",
+      "file": "quizzes/ts-03.json"
+    },
+    {
+      "id": "sample",
+      "name": "Демо · Как пользоваться",
+      "file": "quizzes/sample.json"
+    }
+  ]
+}

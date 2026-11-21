@@ -1,0 +1,174 @@
+{
+  "decks": [
+    {
+      "id": "network",
+      "name": "Сеть и HTTP",
+      "file": "decks/network.json"
+    },
+    {
+      "id": "docker",
+      "name": "Docker и Docker Compose",
+      "file": "decks/docker.json"
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "file": "decks/react.json"
+    },
+    {
+      "id": "samurai-01",
+      "name": "Самурай 1 · О курсе",
+      "file": "decks/samurai-01.json"
+    },
+    {
+      "id": "samurai-02",
+      "name": "Самурай 2 · Vanilla UI",
+      "file": "decks/samurai-02.json"
+    },
+    {
+      "id": "samurai-03",
+      "name": "Самурай 3 · Node.js",
+      "file": "decks/samurai-03.json"
+    },
+    {
+      "id": "samurai-04",
+      "name": "Самурай 4 · Vite и старт проекта",
+      "file": "decks/samurai-04.json"
+    },
+    {
+      "id": "samurai-05",
+      "name": "Самурай 5 · Метод map",
+      "file": "decks/samurai-05.json"
+    },
+    {
+      "id": "samurai-06",
+      "name": "Самурай 6 · Модули, import/export",
+      "file": "decks/samurai-06.json"
+    },
+    {
+      "id": "samurai-07",
+      "name": "Самурай 7 · JSX vs HTML",
+      "file": "decks/samurai-07.json"
+    },
+    {
+      "id": "samurai-08",
+      "name": "Самурай 8 · Данные и алгоритм рендера",
+      "file": "decks/samurai-08.json"
+    },
+    {
+      "id": "samurai-09",
+      "name": "Самурай 9 · useState",
+      "file": "decks/samurai-09.json"
+    },
+    {
+      "id": "samurai-10",
+      "name": "Самурай 10 · Backend, API, Swagger",
+      "file": "decks/samurai-10.json"
+    },
+    {
+      "id": "samurai-11",
+      "name": "Самурай 11 · useEffect и запросы",
+      "file": "decks/samurai-11.json"
+    },
+    {
+      "id": "samurai-12",
+      "name": "Самурай 12 · filter и find",
+      "file": "decks/samurai-12.json"
+    },
+    {
+      "id": "samurai-13",
+      "name": "Самурай 13 · Паттерн List-Detail",
+      "file": "decks/samurai-13.json"
+    },
+    {
+      "id": "samurai-14",
+      "name": "Самурай 14 · Truthy/Falsy и условный рендеринг",
+      "file": "decks/samurai-14.json"
+    },
+    {
+      "id": "samurai-15",
+      "name": "Самурай 15 · useEffect: зависимости",
+      "file": "decks/samurai-15.json"
+    },
+    {
+      "id": "samurai-16",
+      "name": "Самурай 16 · Компоненты и декомпозиция",
+      "file": "decks/samurai-16.json"
+    },
+    {
+      "id": "samurai-17",
+      "name": "Самурай 17 · Props и Information Expert",
+      "file": "decks/samurai-17.json"
+    },
+    {
+      "id": "samurai-18",
+      "name": "Самурай 18 · Inversion of Control и callbacks",
+      "file": "decks/samurai-18.json"
+    },
+    {
+      "id": "samurai-19",
+      "name": "Самурай 19 · Синхронизация компонентов на примере плеера",
+      "file": "decks/samurai-19.json"
+    },
+    {
+      "id": "samurai-20",
+      "name": "Самурай 20 · TypeScript: основы",
+      "file": "decks/samurai-20.json"
+    },
+    {
+      "id": "samurai-21",
+      "name": "Самурай 21 · TypeScript в React",
+      "file": "decks/samurai-21.json"
+    },
+    {
+      "id": "samurai-22",
+      "name": "Самурай 22 · Архитектура и Data Access Layer",
+      "file": "decks/samurai-22.json"
+    },
+    {
+      "id": "samurai-23",
+      "name": "Самурай 23 · Кастомные хуки",
+      "file": "decks/samurai-23.json"
+    },
+    {
+      "id": "samurai-24",
+      "name": "Самурай 24 · Стейт менеджер на хуках и BLL",
+      "file": "decks/samurai-24.json"
+    },
+    {
+      "id": "samurai-25",
+      "name": "Самурай 25 · CSS-модули, PostCSS и clsx",
+      "file": "decks/samurai-25.json"
+    },
+    {
+      "id": "samurai-26",
+      "name": "Самурай 26 · Git и GitHub",
+      "file": "decks/samurai-26.json"
+    },
+    {
+      "id": "samurai-27",
+      "name": "Самурай 27 · DevOps, CI/CD и GitHub Actions",
+      "file": "decks/samurai-27.json"
+    },
+    {
+      "id": "ts-01",
+      "name": "TypeScript 1 · Основы",
+      "file": "decks/ts-01.json"
+    },
+    {
+      "id": "ts-02",
+      "name": "TypeScript 2 · Типизация функций",
+      "file": "decks/ts-02.json"
+    },
+    {
+      "id": "ts-03",
+      "name": "TypeScript 3 · Типизация массивов",
+      "file": "decks/ts-03.json"
+    },
+    {
+      "id": "sample",
+      "name": "Демо · Как пользоваться",
+      "file": "decks/sample.json"
+    }
+  ]
+}
